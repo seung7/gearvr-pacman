@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{91701963-2758-A0A5-6460-2B96F046AE47}</ProjectGuid>
+    <ProjectGuid>{ACF2F8FE-BB96-5107-DDAE-CDEF8FCB4945}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\SpinCube.cs" />
      <Compile Include="Assets\moveOnStep.cs" />
+     <Compile Include="Assets\onUserDeath.cs" />
      <Compile Include="Assets\rotateOnStep.cs" />
      <Compile Include="Assets\stepListener.cs" />
  <Reference Include="UnityEngine.UI">
