@@ -47,6 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\SpinCube.cs" />
+     <Compile Include="Assets\moveOnStep.cs" />
+     <Compile Include="Assets\rotateOnStep.cs" />
+     <Compile Include="Assets\stepListener.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

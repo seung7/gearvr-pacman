@@ -1,8 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SpinCube.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\moveOnStep.cs">
     <Files>
-      <File FileName="Assets\SpinCube.cs" Line="15" Column="3" />
+      <File FileName="Assets\SpinCube.cs" Line="10" Column="3" />
+      <File FileName="Assets\rotateOnStep.cs" Line="20" Column="41" />
+      <File FileName="Assets\moveOnStep.cs" Line="31" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
